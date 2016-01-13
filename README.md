@@ -1,6 +1,6 @@
 # vishnusagar.com
 Web based online home delivery and room reservation system for “Vishnu Sagar Group”
-
+Authors: Vishwas Vijaya Kumar, Venkat Sambandhan, Maaz Syed
 
 • “Vishnu Sagar Group” focuses on fast food services and lodging services
 • Provides online home delivery, take-away services and online room reservation, hence bypassing the business to business (B2B) dependency.
